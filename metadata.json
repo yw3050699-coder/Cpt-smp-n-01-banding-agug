@@ -1,0 +1,6 @@
+{
+  "name": "E-POTING CBT SMPN 01 Banding Agung",
+  "description": "Sistem CBT Ujian Online E-POTING SMP Negeri 01 Banding Agung untuk Kelas VII, VIII, IX, Bank Soal, Token Ujian, Autosave, dan Monitoring Pengawas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
